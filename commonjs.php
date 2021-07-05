@@ -69,7 +69,7 @@ color: rgb(175, 175, 175) !important;
     <script type="text/javascript">
 (function () {
     var options = {
-        whatsapp: "+917249510087", // WhatsApp number
+        whatsapp: "+917276035350", // WhatsApp number
         call_to_action: "Message us", // Call to action
         position: "left", // Position may be 'right' or 'left'
         pre_filled_message: "Hello", // WhatsApp pre-filled message
@@ -87,7 +87,7 @@ var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
 (function(){
 var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
 s1.async=true;
-s1.src='https://embed.tawk.to/608561cd5eb20e09cf3663af/1f44gc3li';
+s1.src='https://embed.tawk.to/60e28842649e0a0a5cca87eb/1f9qe8hca';
 s1.charset='UTF-8';
 s1.setAttribute('crossorigin','*');
 s0.parentNode.insertBefore(s1,s0);
