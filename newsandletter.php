@@ -1,22 +1,40 @@
-   <div class="footer-newsletter">
+   <div class="footer-newsletter" id="news">
       <div class="container">
         <div class="row">
           <div class="col-lg-6">
             <h4>Latest Updates</h4>
             <div class="holder-news">
               <ul id="news-ticker">
-                <li><span>10/10/2007</span><a href="#">The first thing that most Javascript programmers</a></li>
-                <li><span>10/10/2007</span><a href="#">End up doing is adding some code</a></li>
-                <li><span>10/10/2007</span><a href="#">The code that you want to run</a></li>
-                <li><span>08/10/2007</span><a href="#">Inside of which is the code that you want to run</a></li>
-                <li><span>08/10/2007</span><a href="#">Right when the page is loaded</a></li>
-                <li><span>05/10/2007</span><a href="#">Problematically, however, the Javascript code</a></li>
-                <li><span>04/10/2007</span><a href="#">The first thing that most Javascript programmers</a></li>
-                <li><span>04/10/2007</span><a href="#">End up doing is adding some code</a></li>
-                <li><span>04/10/2007</span><a href="#">The code that you want to run</a></li>
-                <li><span>03/10/2007</span><a href="#">Inside of which is the code that you want to run</a></li>
-                <li><span>03/10/2007</span><a href="#">Right when the page is loaded</a></li>
-                <li><span>01/10/2007</span><a href="#">Problematically, however, the Javascript code</a></li>
+			  <?php
+				include('conn.php');
+
+				$fetch_basic_profile="select DATE_FORMAT(newsdate,'%d/%m/%Y') as newsdate,description,attachment from tbl_news order by id asc";	
+				
+				$basic_profile_rs= mysqli_query($con,$fetch_basic_profile);
+				
+				$count = mysqli_num_rows($basic_profile_rs);
+				
+				if($count > 0) {
+
+					while($basic_profile_row = mysqli_fetch_array($basic_profile_rs)) 
+						{
+						$id=$basic_profile_row[0];
+						$attachments="news/attachments/";
+						$attachment=$basic_profile_row[2];
+						$newsdate= $basic_profile_row[0];
+						$desc = $basic_profile_row[1];
+						
+						if($attachment == "") 
+							echo "<li><span>$newsdate</span><a href=''>$desc</a></li>";
+						else	
+							echo "<li><span>$newsdate</span><a href='$attachments/$attachment'>$desc</a></li>";
+					
+						} 
+					}
+				else
+					echo "<p class='mb-4'>Stay Tuned for our latest updates...</p>";		
+				?>
+			  
               </ul>
             </div>
           </div>

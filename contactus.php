@@ -48,7 +48,7 @@
           </div>
 
           <div class="col-lg-6">
-            <form action="forms/contact.php" method="post" class="php-email-form">
+            <form action="contact_action.php" method="post" class="php-email-form">
               <div class="row gy-4">
 
                 <div class="col-md-6">
@@ -60,7 +60,7 @@
                 </div>
 
                 <div class="col-md-12">
-                  <input type="text" class="form-control" name="subject" placeholder="Subject" required>
+                  <input type="text" class="form-control" name="mobile" placeholder="Mobile No" required>
                 </div>
 
                 <div class="col-md-12">
@@ -72,7 +72,7 @@
                   <div class="error-message"></div>
                   <div class="sent-message">Your message has been sent. Thank you!</div>
 
-                  <button type="submit">Send Message</button>
+                 <input type="submit" name="submit"  value="SEND MESSAGE" >
                 </div>
 
               </div>

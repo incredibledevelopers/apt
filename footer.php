@@ -27,6 +27,9 @@
               <li><i class="bi bi-chevron-right"></i> <a href="#features">Features</a></li>
               <li><i class="bi bi-chevron-right"></i> <a href="#pricing">Pricing</a></li>
               <li><i class="bi bi-chevron-right"></i> <a href="terms.php">Terms of service</a></li>
+			  <li><i class="bi bi-chevron-right"></i> <a href="#faq">FAQ</a></li>
+			  <li><i class="bi bi-chevron-right"></i> <a href="#news">Latest Updates</a></li>
+			  <li><i class="bi bi-chevron-right"></i> <a href="#news">Newsletter</a></li>
             </ul>
           </div>
 
