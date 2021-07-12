@@ -3,12 +3,12 @@
         <div class="row">
           <div class="col-lg-6">
             <h4>Latest Updates</h4>
-            <div class="holder-news">
-              <ul id="news-ticker">
+	           <div class="myTicker">
+              <ul>
 			  <?php
 				include('conn.php');
 
-				$fetch_basic_profile="select DATE_FORMAT(newsdate,'%d/%m/%Y') as newsdate,description,attachment from tbl_news order by id asc";	
+				$fetch_basic_profile="select DATE_FORMAT(newsdate,'%d/%m/%Y') as newsdate,description,attachment from tbl_news order by id desc";	
 				
 				$basic_profile_rs= mysqli_query($con,$fetch_basic_profile);
 				
@@ -25,9 +25,9 @@
 						$desc = $basic_profile_row[1];
 						
 						if($attachment == "") 
-							echo "<li><span>$newsdate</span><a href=''>$desc</a></li>";
+							echo "<li><span>$newsdate</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=''>$desc</a></li>";
 						else	
-							echo "<li><span>$newsdate</span><a href='$attachments/$attachment'>$desc</a></li>";
+							echo "<li><span>$newsdate</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='$attachments/$attachment'>$desc</a></li>";
 					
 						} 
 					}
@@ -48,3 +48,22 @@
         </div>
       </div>
     </div>
+<style>
+.myTicker{
+    width: 400px;
+}
+.myTicker ul{
+    padding: 0;
+}
+.myTicker li{
+    list-style: none;
+    border-bottom: 1px solid green;
+    padding: 10px;
+}
+.et-run{
+    background: red;
+}
+.et-item-visible{
+    color: blue !important;
+}
+</style>	

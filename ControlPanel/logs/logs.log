@@ -37,3 +37,5 @@
 "2021-07-10 05:45:55",INFO,--,"News Data inserted",87,"C:\wamp64\www\apt\ControlPanel\newsactions.php"
 "2021-07-10 05:46:57",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,description,attachment) values('2021-07-22','Specifies a result set identifier returned by mysqli_query','logo.png')",83,"C:\wamp64\www\apt\ControlPanel\newsactions.php"
 "2021-07-10 05:46:57",INFO,--,"News Data inserted",87,"C:\wamp64\www\apt\ControlPanel\newsactions.php"
+"2021-07-12 17:50:27",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,description,attachment) values('2021-07-18','APT SOCY SOLUTIONS is a LLP incorporated under Companies Act.','ec2-Jenkins-config.docx')",83,"C:\wamp64\www\apt\ControlPanel\newsactions.php"
+"2021-07-12 17:50:27",INFO,--,"News Data inserted",87,"C:\wamp64\www\apt\ControlPanel\newsactions.php"

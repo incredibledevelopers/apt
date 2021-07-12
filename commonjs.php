@@ -26,44 +26,57 @@ color: rgb(175, 175, 175) !important;
   <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
   <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  <script>
-    .fn.liScroll = function (settings) {
-      settings = .extend({
-        travelocity: 0.03
-      }, settings);
-      return this.each(function () {
-        var $strip = (this);
-        $strip.addClass("newsticker")
-        var stripHeight = 1;
-        $strip.find("li").each(function (i) {
-          stripHeight += (this, i).outerHeight(true); // thanks to Michael Haszprunar and Fabien Volpi
-        });
-        var $mask = $strip.wrap("<div class='mask'></div>");
-        var $tickercontainer = $strip.parent().wrap("<div class='tickercontainer'></div>");
-        var containerHeight = $strip.parent().parent().height();	//a.k.a. 'mask' width 	
-        $strip.height(stripHeight);
-        var totalTravel = stripHeight;
-        var defTiming = totalTravel / settings.travelocity;	// thanks to Scott Waye		
-        function scrollnews(spazio, tempo) {
-          $strip.animate({ top: '-=' + spazio }, tempo, "linear", function () { $strip.css("top", containerHeight); scrollnews(totalTravel, defTiming); });
-        }
-        scrollnews(totalTravel, defTiming);
-        $strip.hover(function () {
-          (this).stop();
+  <script type="text/javascript" src="assets/js/jquery.easy-ticker.min.js"></script>
+  
+<script type="text/javascript">
+$(document).ready(function(){
+
+    var myET = $('.myTicker').easyTicker({
+        direction: 'up',
+        easing: 'swing',
+        speed: 'slow',
+        interval: 2000,
+        height: 'auto',
+        visible: 5,
+        mousePause: true,
+        controls: {
+            up: '.up',
+            down: '.down',
+            toggle: '.toggle',
+            stopText: 'Stop !!!'
         },
-          function () {
-            var offset = (this).offset();
-            var residualSpace = offset.top + stripHeight;
-            var residualTime = residualSpace / settings.travelocity;
-            scrollnews(residualSpace, residualTime);
-          });
-      });
-    };
+        callbacks: {
+            before: function(ul, li){
+                console.log(this, ul, li);
+                $(li).css('color', 'red');
+            },
+            after: function(ul, li){
+                console.log(this, ul, li);
+            }
+        }
+    }).data('easyTicker');
 
-    $("ul#news-ticker").liScroll();
+    cc = 1;
+    $('.add').click(function(){
+        $('.myTicker ul').append('<li>' + cc + ' Triangles can be made easily using CSS also without any images. This trick requires only div tags and some</li>');
+        cc++;
+    });
 
-  </script>
+    $('.visible-3').click(function(){
+        myET.options['visible'] = 3;
 
+    });
+
+    $('.visible-all').click(function(){
+        myET.stop();
+        myET.options['visible'] = 0 ;
+        myET.start();
+    });
+
+    $('.myTicker3').easyTicker();
+
+});
+</script>
 <script>
       /* pagination plugin */
 $.fn.pageMe = function(opts){
