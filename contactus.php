@@ -48,7 +48,7 @@
           </div>
 
           <div class="col-lg-6">
-            <form action="contact_action.php" method="post" class="php-email-form">
+            <form action="https://aptsocy.com/contact/send_message" method="post" class="php-email-form">
               <div class="row gy-4">
 
                 <div class="col-md-6">
@@ -60,7 +60,7 @@
                 </div>
 
                 <div class="col-md-12">
-                  <input type="text" class="form-control" name="mobile" placeholder="Mobile No" required>
+                  <input type="text" class="form-control" name="subject" placeholder="Mobile No" required>
                 </div>
 
                 <div class="col-md-12">

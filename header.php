@@ -27,8 +27,8 @@
               </ul>
             </div>
           </li>
-          <li><a class="nav-link scrollto" href="#portfolio" alt="sign in">Sign In</a></li>
-          <li><a class="nav-link scrollto" href="#portfolio">Sign Up</a></li>
+          <li><a class="nav-link scrollto" href="https://aptsocy.com/login" alt="sign in">Sign In</a></li>
+          <li><a class="nav-link scrollto" href="https://aptsocy.com/register/client_signup">Sign Up</a></li>
           <li>
             <div class="dropdown" id="google_translate_element"></div>
               

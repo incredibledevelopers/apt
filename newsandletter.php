@@ -41,7 +41,7 @@
           <div class="col-lg-6 text-center">
             <h4 class="mt-5">Our Newsletter</h4>
             <p class="mb-4">Curious To Learn More...? Stay Tuned</p>
-            <form action="" method="post">
+            <form action="https://aptsocy.com/emaiL_subscribed" method="post">
               <input type="email" name="email"><input type="submit" value="Subscribe">
             </form>
           </div>

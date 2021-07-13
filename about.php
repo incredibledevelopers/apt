@@ -2,7 +2,7 @@
       <div class="container" data-aos="fade-up">
 
         <header class="section-header">
-          <p>Find Out More <span>About Us</span></p>
+          <p>Welcome to APT SOCY</span></p>
         </header>
 
         <div class="row">
@@ -11,34 +11,17 @@
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column justify-content-center" data-aos="fade-up"
             data-aos-delay="100">
-            <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
-            <p class="font-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-              dolore
-              magna aliqua.
+       
+            <p class="font-italic" align="justify">
+            APT SOCY is committed to provide web based solution for the effective, efficient and hassle free management of housing societies and apartments.
             </p>
-            <ul>
-              <li>
-                <i class="bi bi-shop"></i>
-                <div>
-                  <h5>Ullamco laboris nisi ut aliquip consequat</h5>
-                  <p>Magni facilis facilis repellendus cum excepturi quaerat praesentium libre trade</p>
-                </div>
-              </li>
-              <li>
-                <i class="bi bi-images"></i>
-                <div>
-                  <h5>Magnam soluta odio exercitationem reprehenderi</h5>
-                  <p>Quo totam dolorum at pariatur aut distinctio dolorum laudantium illo direna pasata redi</p>
-                </div>
-              </li>
-            </ul>
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-              voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
+           
+            <p align="justify">
+              This web portal has been developed under the guidance of Dr Kishore Toshniwal for providing management solutions to Cooperative Housing Societies (CHS) and Apartments. The team at APT SOCY is highly qualified and experienced in this field and capable of providing solutions to the problems of CHS and Apartments. 
             </p>
+			<p align="justify">
+			This portal will provide platform to various stakeholders and service providers. It will create job opportunities for many individuals and act as a link between professionals and stakeholders to comply with various applicable laws to CHS and Apartments.
+			</p>
           </div>
         </div>
 
