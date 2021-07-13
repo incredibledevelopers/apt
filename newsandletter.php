@@ -50,7 +50,7 @@
     </div>
 <style>
 .myTicker{
-    width: 400px;
+    width: 350px;
 }
 .myTicker ul{
     padding: 0;
