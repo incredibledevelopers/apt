@@ -45,7 +45,7 @@
 <body>
 
   <!-- ======= Header ======= -->
-  <?php include('header.php'); ?>
+  <?php include('faqheader.php'); ?>
    
   <!-- End Header -->
 
@@ -58,7 +58,7 @@
  </main><!-- End #main -->
 
  <!-- ======= Footer ======= -->
- <?php include('footer.php'); ?>
+ <?php include('faqfooter.php'); ?>
  <!-- End Footer -->
 
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i

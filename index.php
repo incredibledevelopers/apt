@@ -66,10 +66,6 @@
  <?php include('pricing.php'); ?>
  <!-- End Pricing Section -->
 
- <!-- ======= Clients Section ======= -->
- <?php //include('clients.php'); ?>
-  <!-- End Clients Section -->
-
   <!-- ======= Contact Section ======= -->
  <?php include('contactus.php'); ?>
  <!-- End Contact Section -->

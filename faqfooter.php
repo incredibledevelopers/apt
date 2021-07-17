@@ -22,14 +22,14 @@
           <div class="col-lg-2 col-6 footer-links">
             <h4>Useful Links</h4>
             <ul>
-              <li><i class="bi bi-chevron-right"></i> <a class="scrollto" href="#hero">Home</a></li>
-              <li><i class="bi bi-chevron-right"></i> <a href="#about">About us</a></li>
-              <li><i class="bi bi-chevron-right"></i> <a href="#features">Features</a></li>
-              <li><i class="bi bi-chevron-right"></i> <a href="#pricing">Pricing</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a class="scrollto" href="index.php#hero">Home</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="index.php#about">About us</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="index.php#features">Features</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="index.php#pricing">Pricing</a></li>
               <li><i class="bi bi-chevron-right"></i> <a href="terms.php#terms">Terms of service</a></li>
 			  <li><i class="bi bi-chevron-right"></i> <a href="faqs.php#faq">FAQ</a></li>
-			  <li><i class="bi bi-chevron-right"></i> <a href="#news">Latest Updates</a></li>
-			  <li><i class="bi bi-chevron-right"></i> <a href="#news">Newsletter</a></li>
+			  <li><i class="bi bi-chevron-right"></i> <a href="index.php#news">Latest Updates</a></li>
+			  <li><i class="bi bi-chevron-right"></i> <a href="index.php#news">Newsletter</a></li>
             </ul>
           </div>
 

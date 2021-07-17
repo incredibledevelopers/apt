@@ -8,11 +8,11 @@
 
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a class="nav-link scrollto active" href="index.php#hero">Home</a></li>
+          <li><a class="nav-link scrollto" href="index.php#hero">Home</a></li>
           <li><a class="nav-link scrollto" href="index.php#features">Features</a></li>
           <li><a class="nav-link scrollto" href="index.php#about">About Us</a></li>
           <li><a class="nav-link scrollto" href="index.php#pricing">Pricing</a></li>
-          <li><a class="nav-link scrollto" href="faqs.php#faq">FAQs</a></li>
+          <li><a class="nav-link scrollto active" href="faqs.php#faq">FAQs</a></li>
           <!-- <li><a class="nav-link scrollto" href="#about">Downloads</a></li> -->
           <li><a class="nav-link scrollto" href="index.php#contact">Contact Us</a></li>
           <li class="d-none">

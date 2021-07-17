@@ -47,11 +47,9 @@
   <!-- ======= Header ======= -->
   <?php include('header.php'); ?>
    
-   <!-- ======= Hero Section ======= -->
-  <?php include('slider.php'); ?>
   <!-- End Hero -->
   <main id="main">
-	<section id="features" class="values">
+	<section id="terms" class="values">
 		<div class="container" data-aos="fade-up">
 		 <p><p><strong>APT SOCY Solutions LLP,</strong><strong> LICENSE AGREEMENT</strong></p>
 <p><strong> </strong></p>
@@ -96,29 +94,7 @@
 		</div>
 	</section>
 	
-	  <!-- ======= Values Section ======= -->
-  <?php include('feature.php'); ?>
-  <!-- End Values Section -->
 
- <!-- ======= About Section ======= -->
- <?php include('about.php'); ?>
- <!-- End About Section -->
-
- <!-- ======= Pricing Section ======= -->
- <?php include('pricing.php'); ?>
- <!-- End Pricing Section -->
-
- <!-- ======= F.A.Q Section ======= -->
- <?php include('faq.php'); ?>
- <!-- End F.A.Q Section -->
-
- <!-- ======= Clients Section ======= -->
- <?php //include('clients.php'); ?>
-  <!-- End Clients Section -->
-
-  <!-- ======= Contact Section ======= -->
- <?php include('contactus.php'); ?>
- <!-- End Contact Section -->
   </main><!-- End #main -->
 
  <!-- ======= Footer ======= -->
