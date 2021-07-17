@@ -49,32 +49,13 @@
    
   <!-- End Header -->
 
-  <!-- ======= Hero Section ======= -->
-  <?php include('slider.php'); ?>
-  <!-- End Hero -->
-
   <main id="main">
-  <!-- ======= Values Section ======= -->
-  <?php include('feature.php'); ?>
-  <!-- End Values Section -->
+  
+ <!-- ======= F.A.Q Section ======= -->
+ <?php include('faq.php'); ?>
+ <!-- End F.A.Q Section -->
 
- <!-- ======= About Section ======= -->
- <?php include('about.php'); ?>
- <!-- End About Section -->
-
- <!-- ======= Pricing Section ======= -->
- <?php include('pricing.php'); ?>
- <!-- End Pricing Section -->
-
- <!-- ======= Clients Section ======= -->
- <?php //include('clients.php'); ?>
-  <!-- End Clients Section -->
-
-  <!-- ======= Contact Section ======= -->
- <?php include('contactus.php'); ?>
- <!-- End Contact Section -->
-
-  </main><!-- End #main -->
+ </main><!-- End #main -->
 
  <!-- ======= Footer ======= -->
  <?php include('footer.php'); ?>
