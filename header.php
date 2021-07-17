@@ -12,6 +12,7 @@
           <li><a class="nav-link scrollto" href="#features">Features</a></li>
           <li><a class="nav-link scrollto" href="#about">About Us</a></li>
           <li><a class="nav-link scrollto" href="#pricing">Pricing</a></li>
+          <li><a class="nav-link scrollto" href="faqs.php">FAQs</a></li>
           <!-- <li><a class="nav-link scrollto" href="#about">Downloads</a></li> -->
           <li><a class="nav-link scrollto" href="#contact">Contact Us</a></li>
           <li class="d-none">
