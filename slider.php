@@ -12,7 +12,7 @@
           <div data-aos="fade-up" data-aos-delay="600">
             <div class="text-center text-lg-start">
               <a class="btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center"
-                href="https://www.aptsocy.com/sign_up">
+                href="https://aptsocy.com/register/client_signup">
                 <span>Start 90 Days Trial</span>
                 <i class="bi bi-arrow-right"></i>
               </a>
