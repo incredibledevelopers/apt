@@ -51,6 +51,9 @@
   <main id="main">
 	<section id="terms" class="values">
 		<div class="container" data-aos="fade-up">
+		     <header class="section-header mt-4">
+         <p>Terms Of Service</p>
+      </header>
 		 <p><p><strong>APT SOCY Solutions LLP,</strong><strong> LICENSE AGREEMENT</strong></p>
 <p><strong> </strong></p>
 <p>Welcome to APT SOCY Solutions LLP at https://www.aptsocy.com. Enjoy hassle free online society management services through our specially designed software. Kindly go through following Terms &amp; Conditions of usage carefully before accessing or using this website (online software application).</p>
@@ -98,7 +101,7 @@
   </main><!-- End #main -->
 
  <!-- ======= Footer ======= -->
- <?php include('footer.php'); ?>
+ <?php include('termsfooter.php'); ?>
  <!-- End Footer -->
 
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i

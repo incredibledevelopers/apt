@@ -17,6 +17,7 @@ max-width: inherit;
 color: rgb(175, 175, 175) !important;
 }
 </style>
+
   <!-- Vendor JS Files -->
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.js"></script>
   <script src="assets/vendor/aos/aos.js"></script>
@@ -412,3 +413,5 @@ s0.parentNode.insertBefore(s1,s0);
 })();
 </script>
 <!--End of Tawk.to Script-->
+
+<script src="toast.script.js"></script>

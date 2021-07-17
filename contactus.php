@@ -48,7 +48,7 @@
           </div>
 
           <div class="col-lg-6">
-            <form action="https://aptsocy.com/contact/send_message" method="post" class="php-email-form">
+            <form action="contact_action.php" method="post" class="php-email-form">
               <div class="row gy-4">
 
                 <div class="col-md-6">
@@ -60,17 +60,12 @@
                 </div>
 
                 <div class="col-md-12">
-                  <input type="text" class="form-control" name="subject" placeholder="Mobile No" required>
+                  <input type="text" class="form-control" name="phone" placeholder="Mobile No" required>
                 </div>
 
                 <div class="col-md-12">
                   <textarea class="form-control" name="message" rows="6" placeholder="Message" required></textarea>
                 </div>
-
-                <div class="col-md-12 text-center">
-                  <div class="loading">Loading</div>
-                  <div class="error-message"></div>
-                  <div class="sent-message">Your message has been sent. Thank you!</div>
 
                  <input type="submit" name="submit"  value="SEND MESSAGE" >
                 </div>

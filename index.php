@@ -40,6 +40,9 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
   <link href="assets/css/language.css" rel="stylesheet">
+  <link href="toast.style.min.css" rel="stylesheet">
+
+  
 </head>
 
 <body>
@@ -79,6 +82,75 @@
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
       class="bi bi-arrow-up-short"></i></a>
  <?php include('commonjs.php'); ?>
+ 
+ <?php
+if(isset($_GET['msg']))
+ {
+     $msg= $_GET['msg'];
+     if($msg == 'contactsuccess') {
+ 
+?>
+
+<script>
+    function contactUs(){
+        $.Toast("Success", "Thank You for Contacting Us.We will get back to you !", "success", {
+            has_icon:true,
+            has_close_btn:true,
+			stack: true,
+            fullscreen:true,
+            timeout:5000,
+            sticky:false,
+            has_progress:true,
+            rtl:false,
+        });
+    }
+    contactUs();
+</script>
+<?php
+    }
+    if($msg == 'alreadysubscribed') {
+
+?>
+<script>
+    function alreadySubscribed(){
+        $.Toast("Error", "You are already subscribed !", "error", {
+            has_icon:true,
+            has_close_btn:true,
+			stack: true,
+            fullscreen:true,
+            timeout:5000,
+            sticky:false,
+            has_progress:true,
+            rtl:false,
+        });
+    }
+    alreadySubscribed();
+</script>
+<?php
+}  
+  if($msg == 'subscribed') {
+
+?>
+<script>
+    function subscribed(){
+        $.Toast("Success", "You have been Subscribed Succeswsfully !", "success", {
+            has_icon:true,
+            has_close_btn:true,
+			stack: true,
+            fullscreen:true,
+            timeout:5000,
+            sticky:false,
+            has_progress:true,
+            rtl:false,
+        });
+    }
+    subscribed();
+</script>
+
+<?php
+}
+}
+?>
 
 </body>
 

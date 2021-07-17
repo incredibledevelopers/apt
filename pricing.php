@@ -11,34 +11,24 @@
 
           <div class="col-lg-4 col-md-6 " data-aos="zoom-in" data-aos-delay="100">
             <div class="box">
-              <h3 style="color: #07d5c0;">Free Plan</h3>
-              <div class="price"><sup>₹</sup>0<span> / mo</span></div>
+              <h3 style="color: #07d5c0;">90 Days Free trial</h3>
               <img src="assets/img/pricing-free.png" class="img-fluid" alt="">
-              <ul>
-                <li>90 Days Free Trail</li>
-                <li>Nec feugiat nisl</li>
-                <li>Nulla at volutpat dola</li>
-                <li class="na">Pharetra massa</li>
-                <li class="na">Massa ultricies mi</li>
-              </ul>
-              <a href="#" class="btn-buy">Buy Now</a>
+                <p> Register your society/Apartment and avail 90 days free trail for hands on experience.  </p>
+              <a href="https://aptsocy.com/register/client_signup" class="btn-buy">Start 90 Days Trial</a>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="200">
             <div class="box">
-              <span class="featured">Featured</span>
-              <h3 style="color: #65c600;">Cutomized Plan</h3>
-              <div class="price"><sup>₹</sup>-<span> / mo</span></div>
+              <h3 style="color: #65c600;">After 90 Days</h3>
+     
               <img src="assets/img/pricing-starter.png" class="img-fluid" alt="">
-              <ul>
-                <li>Aida dere</li>
-                <li>Nec feugiat nisl</li>
-                <li>Nulla at volutpat dola</li>
-                <li>Pharetra massa</li>
-                <li class="na">Massa ultricies mi</li>
-              </ul>
-              <a href="#" class="btn-buy">Give us Call</a>
+                <p>
+                    For uninterrupted services after 90 days, contact us on email: housing@aptsocy.com and/or   
+call on +91 72760 35350.
+
+                </p>
+              
             </div>
           </div>
           <!-- 

@@ -1,0 +1,1 @@
+[18-Jul-2021 08:51:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/incredib/public_html/apt/action.php on line 9
