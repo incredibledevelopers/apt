@@ -273,13 +273,14 @@ section {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 10px 0 10px 24px;
+  padding: 6px 12px 6px 12px;
   font-family: "Nunito", sans-serif;
   font-size: 16px;
   font-weight: 700;
   color: #21275f;
   white-space: nowrap;
   transition: 0.3s;
+  margin-left: 2px;
 }
 
 .navbar a.btn, .navbar a.btn:focus {
@@ -297,6 +298,8 @@ section {
 
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
   color: #04b0f0;
+  background: #04b0f01f;
+  border-radius: 9px;
 }
 
 .navbar .getstarted {
@@ -656,6 +659,12 @@ section {
 .about .content h3 {
   font-weight: 600; 
   font-size: 26px;
+}
+
+.about-img{
+  max-width: 330px;
+  margin: 0 auto;
+  display: block;
 }
 
 .about .content ul {
@@ -1841,13 +1850,16 @@ h3 .faq_highlight {
   padding: 12px 15px;
 }
 
-.contact .php-email-form button[type="submit"] {
+.contact .php-email-form input[type="submit"] {
   background: #1e2d66;
   border: 0;
   padding: 10px 30px;
   color: #fff;
   transition: 0.4s;
   border-radius: 4px;
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .contact .php-email-form button[type="submit"]:hover {
