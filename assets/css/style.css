@@ -665,6 +665,7 @@ section {
   max-width: 330px;
   margin: 0 auto;
   display: block;
+  width: 100%;
 }
 
 .about .content ul {
