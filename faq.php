@@ -16,8 +16,7 @@
                   <div class="faq_subaccordion" id="subaccordion_0">
                      <h3>Q. 1. How to register the society and which documents required for it? </h3>
                      <div>
-					 
-                      
+					                 
 <pre> <p align="justify">
   <p align="justify">Ans.: It is obligatory to apply for co-operative society or Association of Apartment within four months from the taking possession of galas by holders, necessary for forming the co-operative society or Association of Apartment according to provisions mentioned under section 10 of the Maharashtra Ownership Flat Act 1963 and rule 8 of Rules 1964 there under. While taking into consideration of these provisions it is necessary to make an application for getting permission for opening bank account by keeping the name of the proposed society reserve by the builder/promoters/chief promoter to the Registrar, co-operative societies in the concerned. It is necessary to make selection of the chief promoter in the primary meeting of the members. If not desire to work as Chief Promoter for some reason than in such situation, any member from the gala holder can be selected as a Chief Promoter. However while submitting proposal it is necessary to submit consent letter that builder promoters are ready to co-operate for the work of registering the society. Following papers are necessary for submitting the proposal for getting permission for opening the bank account.
 </p>  
@@ -65,36 +64,26 @@
   20. A photo copy of the registered agreement executed between the builder promoters and gala holder.
   21. A photo copy of the receipt of the payment made in respect of the registration fee of the gala and stamp duty of the promoter members mentioned in the application made for registration.
   22. The signature of the minimum 10 promoter members at the end of model bye laws no 175 is necessary.
-
-
 </pre>
                      </div>
                      <h3>Q. 2. What are the types of Co-operative Housing Societies? </h3>
                      <div>
                         <pre> <p align="justify">
-
   Ans. Classification of Co-operative Housing Societies is made in the Maharashtra Co-operative Societies Act 1960 and rule 10of Rules 1961.
-
   1. Tenant Ownership Co-operative Housing Society in which land is holding on lease or independently. Houses are also own by the members.
   2. Tenant Joint Ownership Co-operative Housing Society in which land and houses are owned by the society and house are allotted to the members.
   3. Other Co-operative Housing Societies-House Mortgage-age Society-House building Society.
-
-
 </pre>
                      </div>
                      <h3>Q. 3. What are the main objects of formation of a Society? </h3>
                      <div>
                         <pre> <p align="justify">
-
   Ans.: The main objects of the formation of a Housing Society are as under:
-
   1. To obtain conveyance from the owner/Promoter (Builder), in accordance with the provisions of the Ownership Flats Act and the Rules made there under, of the right, title and interest, in the land with building/buildings thereon as described in the application for registration of the Society;
   2. To manage, maintain and administer the property of the society;
   3. To raise funds for achieving the objects of the society;
   4. To undertake and provide, for on its own account or jointly with cooperative institution, social cultural or re-creative activities;
   5. To do all things, necessary or expedient for the attainment of the objects of the society, as specified in the bye-laws.
-
-
 </pre>
                      </div>
                      <h3>Q. 4. What is the Area of Operation of the Society? </h3>
@@ -132,9 +121,7 @@
                      <h3>Q.8. Minimum how many promoter members are to be participated in the society registration proposal? </h3>
                      <div>
                         <pre> <p align="justify">
-
   Ans.: If the building is built by the Builder and Developer than 60 per cent purchaser or promoter should be participated in the registration proposal
-
 </pre>
                      </div>
                      <h3>Q.9. Minimum how many promoters’ sign are required on the registration proposal? </h3>
@@ -149,23 +136,14 @@
                      <h3>Q. 10. Whether the registration of the building having less than 10 flats is made? </h3>
                      <div>
                         <pre> <p align="justify">
-
+Ans.: Subject to the following orders the society having less than 10 members can found the only condition is that the built up area of each flat should not be more than 700 sq. ft. and the F.S.I. should not be balanced. 
 </pre>
                      </div>
-                     <h3>Ans.: Subject to the following orders the society having less than 10 members can found the only condition is that the built up area of each flat should not be more than 700 sq. ft. and the F.S.I. should not be balanced. </h3>
-                     <div>
-                        <pre> <p align="justify">
-
-
-
-</pre>
-                     </div>
+                    
                      <h3>Q. 11. What are the alternations if builder is not co.-operating for forming co. operative society? </h3>
                      <div>
                         <pre> <p align="justify">
-
   Ans.: In such situation, the chief promoter of the society should submit the registration proposal to the concerned registrar in the category of builders’ non-co-operation.
-
 </pre>
                      </div>
                      <h3>Q. 12. What is the registration fee for registering co-operative housing society? </h3>
@@ -182,43 +160,31 @@
                      <h3>Q. 13. When the condition of minimum 20 percent backward class member is applied while registering the co. operative housing societies? </h3>
                      <div>
                         <pre> <p align="justify">
-
   Ans.: The said condition is applicable if the Authority who gave the financial assistant or land to the society laid down such condition.
-
 </pre>
                      </div>
                      <h3>Q. 14. Is it necessary that the promoters of the society have to make an application to chief promoter for membership before registration of society? </h3>
                      <div>
                         <pre> <p align="justify">
-
   Ans.: Yes, if an application of membership is made before registration of society, then it would be feasible to the chief promoter to take sign on the “Y” form which is to be submitted to the registrar with the proposal of registration and to give its receipt.
-
 </pre>
                      </div>
                      <h3>Q. 15. What are the measures to be adopted if the chief promoters did not deposited the amount of the share capital collected by the Chief Promoter in the bank? </h3>
                      <div>
                         <pre> <p align="justify">
-
   Ans.: The said act of the Chief Promoter can become the offence under section 146 of the Maharashtra Co. Operative Societies Act, 1960. Similarly prosecution may be file in the competent court against the chief promoter with the consent of the concerned Divisional Joint Registrar.
-
-
-
 </pre>
                      </div>
                      <h3>Q. 16. What are the remedies to be adopted if some person collected money on account of share capital from the proposal members in the name of registration of society by providing false information? </h3>
                      <div>
                         <pre> <p align="justify">
-
   Ans.: It is a sort of offence under section 146 of the Maharashtra Co-operative societies ACT 1960. Prosecution can be filed against such person by making formed application to the concerned Divisional Joint Registrar and with his consent.
-
 </pre>
                      </div>
                      <h3>Q.17. Is the chief promoters have rights to withdraw money deposited in the bank in the name of proposal society? </h3>
                      <div>
                         <pre> <p align="justify">
-
   Ans.: The chief promoter no such rights. The chief promoter has a right to withdraw money before registration of society and with the prior consent of the registrar.
-
 </pre>
                      </div>
                      <h3>Q. 18. If the registrar has not given his decision on the registration proposal within the period of two months then what is alternative on its? </h3>
@@ -232,9 +198,7 @@
                      <h3>Q.19. What are the remedies if the proposed of societies registration is denied? </h3>
                      <div>
                         <pre> <p align="justify">
-
   Ans.: Divisional Joint Registrar, Co-operative Societies under section 152 of the Maharashtra Co. operative societies Act.
-
 </pre>
                      </div>
                      <h3>Q. 20. When the builder was not registering society then can the flat/ gala owner register the society on their own? How it could be register? </h3>
@@ -295,14 +259,11 @@
 
   (1) Every Society shall communicate in writing to the Registrar its postal address as indicated in its Bye-laws registered under the Act and wherever applicable mention the name of the District, Taluka, Tahsil, Town or Village, Municipal Ward or Mohalla, Street, House Number and Postal Circle. While communicating the postal address of the Society, the Committee of the Society shall also send a copy of the resolution passed by it for adoption of the address communicated to the registrar.
 
-
   (2) On receipt of the Communication from the Society under Sub-Rule 1, the Registrar shall register the address communicated by the Society in a register to be maintained for that purpose and inform the Society of such registration.
-
 
   (3) Every change in its registered address shall be communicated by the Society to the Registrar in the manner laid down in Sub-Rule 1. Any such change shall not be treated as registered unless:
   i. It is indicated in the Bye-laws by amending them and the amendment so made is registered under the Act, and
   ii. The change is registered in the manner laid down in Sub-Rule 2.
-
 
   (4) The registered address of a Society or such change therein as may be registered, from time to time, shall be exhibited on the notice board of the Society, immediately after registration.
 </p>
@@ -312,7 +273,6 @@
                      <h3>Q.23. Within how many days has the change in the registered address of the Society to be intimated to the Registering Authority? </h3>
                      <div>
                         <pre> <p align="justify">
-
   Ans.: The Society has to intimate the Registering Authority and all others concerned about any change in the registered address of the society within 30 days of such change.
 </pre>
                      </div>
@@ -327,7 +287,6 @@
                         <pre> <p align="justify">
  <p align="justify">
   Ans.: Under section 21 (A) of the Maharashtra co-operative housing society Act 1960, the society can be deregistered. If the society is registered under following situation:-
-
   1) Registrar by giving false information
   2) Work of the society not completed.
   3) Purpose of not server for which it was format.
@@ -340,7 +299,6 @@
                         <pre> <p align="justify">
  <p align="justify">
   Ans.: Under section 21 of the Maharashtra co-operative society Act 1960, the registration of the society becomes cancelled in the following situation.
-
   1. If the society transferred its all property and dues to another society
   2. If the society is amalgamate with another society.
   3. If the society is divided in two or more part.
@@ -485,8 +443,6 @@
   (viii) Permission for assigning, mortgaging or creating charge or interest in flats;
   (ix) Permission for use of terrace, and
   (x) For any other purpose provided under the bye-laws but not specifically mentioned above.
-
-
   All the above applications have to be addressed to the Secretary of the society. Every such application received by the Secretary has to be acknowledged by him.
 </p>
 </pre>
@@ -494,7 +450,6 @@
                      <h3>Q. 32. Within how many days has the Secretary to notify the members regarding the shortcomings in the applications received? </h3>
                      <div>
                         <pre> <p align="justify">
-
   Ans.: The Secretary of the Society, on receipt of the applications has to scrutinise them and bring to the notice of the members concerned any shortcomings therein within 7 days from the receipt of the same for compliance.
 
 </pre>
@@ -510,7 +465,6 @@
                      <h3>Q. 34. Who decides upon the applications received whether to be accepted or rejected? </h3>
                      <div>
                         <pre> <p align="justify">
-
   Ans.: The committee or the General Body, as the case may be, is liable to consider all the applications received from the members at its meetings and take decisions thereon.
 
 </pre>
@@ -518,7 +472,6 @@
                      <h3>Q.35. Within what period does the Society have to dispose of the applications received? </h3>
                      <div>
                         <pre> <p align="justify">
-
   Ans.: The committee has to ensure that all the applications received by the Secretary of the Society are disposed off within a maximum period of 3 months from the date of their receipt.
 
 </pre>
@@ -564,7 +517,6 @@
   2. It is necessary to give an approval to the membership application first by the managing committee and by the general body meeting.
   3. Necessary to have a eligibility under law, rues bye-laws
 
-
   It is necessary to attached resolution giving powers with an application of membership by company, firm, trust local authorities etc. other than person.
 </p>
 </pre>
@@ -600,7 +552,6 @@
   C Nominal Member –
   Nominal member means the membership given by the society without issuing shares or share certificate. Such membership is given under section 91 or under other sections to make it feasible in taking legal action under co. operative law. Housing societies can give such a nominal membership to tenant or care takes.
 
-
   D Sympathises Members:-
   A person who agree with the object of the society is called sympathises member. However definition in this regard is not in the bye-laws of the housing societies.
 
@@ -619,9 +570,7 @@
                      <h3>Q. 44. What are the limitation /percentage of respect of the membership to the firm, companies, and autonomous bodies in the co. operative housing societies? </h3>
                      <div>
                         <pre> <p align="justify">
-
   Ans.: More than 50 percent membership cannot be given to the firm, companies in the co. operative Housing society.
-
 </pre>
                      </div>
                      <h3>Q. 45. Can a minor or a person of unsound mind become a member of a Society? </h3>
@@ -661,17 +610,13 @@
                      </p>
 					 <div>
                         <pre> <p align="justify">
-
   Ans.: if there is not NOC letter from the original member, then the society may deny the application of B. However if B gave his consent / NOC then B can be made co-member.
-
 </pre>
                      </div>
                      <h3>Q. 50. If A is a non residential Indian, and a member of the housing society and given a power of attorney in the name of B and B has applied for membership in place of A, then is the society approved the membership of B? </h3>
                      <div>
                         <pre> <p align="justify">
-
   Ans.: The society cannot approve the membership on the basis or power of Attorney.
-
 </pre>
                      </div>
 					  <p align="justify">
@@ -679,18 +624,13 @@
                     
 </p>					<div>
                         <pre> <p align="justify">
-
   Ans.: If the society approved the application of “A” then after the death of “A” the name of “C” Come first on the share certificate the name of “B” remained second.
-
-
 </pre>
                      </div>
                      <h3>Q. 52. What are the rights of the co member? </h3>
                      <div>
                         <pre> <p align="justify">
-
   Ans.: If the original member gave consent then the co. member can exercised the rights of the member.
-
 </pre>
                      </div>
                      <h3>Q. 53. Can a managing committee charged premium while transferring the gale in the name of the person in family? </h3>
@@ -728,18 +668,13 @@
                      <h3>Q.57. Can the Associate or Nominal member have a right to occupy the Flat? </h3>
                      <div>
                         <pre> <p align="justify">
-
   Ans.: The Associate or Nominal member may be given the right to occupy the flat after taking the consent of the member and permission from the Society, and subject to the conditions set out by the Society.
-
-
 </pre>
                      </div>
                      <h3>Q. 58. How can an Associate Member resign from his membership? </h3>
                      <div>
                         <pre> <p align="justify">
-
   Ans.: An Associate Member can resign from his membership of the Society at any time by writing a letter of resignation and submitting the same to the Secretary of the Society, through the member, with whom he was holding the shares of the Society jointly.
-
 </pre>
                      </div>
                      <h3>Q. 59. What are the duties of the Society on receiving such letter of resignation from an Associate Member? </h3>
@@ -778,9 +713,7 @@
                      <h3>Q.63. Who is a Nominal Member? </h3>
                      <div>
                         <pre> <p align="justify">
-
   Ans.: A Nominal Member is a person who is admitted to the membership of the Society after its registration in accordance with the Bye-laws.
-
 </pre>
                      </div>
                      <h3>Q.64. How can a person become a Nominal Member? </h3>
@@ -842,7 +775,6 @@
                      <h3>Q.71. What are the duties of the Society on receiving such letter of resignation from a sub-lettee, licensee, caretaker or possessor of a flat or part thereof who has been admitted as a nominal member? </h3>
                      <div>
                         <pre> <p align="justify">
-
   Ans.: The Secretary of the Society has to place the letter of the resignation given by the nominal member duly recommended by the member concerned, before the Committee members during the meeting of the Committee, held next after the receipt of the letter of resignation for acceptance by the Committee.
 
 </pre></p>
@@ -850,7 +782,6 @@
                      <h3>Q.72. Within how many days does the Secretary have to communicate the decision of the Committee to the resigning sub-lettee, licensee, caretaker or possessor of a flat or part thereof who has been admitted as a nominal member? </h3>
                      <div>
                         <pre> <p align="justify">
-
   Ans.: The Secretary of the Society has to communicate the decision of the Committee accepting the resignation, to the member concerned and his sub-letter the licensee, the caretaker, or as the case may be, the possessor of the flat or part thereof, within 15 days of the decision by the Committee. If the resignation is rejected, the Committee records the reasons therefor in the minutes of its meeting and the Secretary has to communicate the same to the member concerned and his sub-letter, licensee, or caretaker etc. within the time specified above. If the committee does not take any decision thereof within 3 months, the said registration shall be deemed to have been accepted.
 
 </pre></p>
@@ -858,7 +789,6 @@
                      <h3>Q.73. What is the period of notice prescribed for resignation of membership from the Society? </h3>
                      <div>
                         <pre> <p align="justify">
-
   Ans.: As provided under Rule 21 (1) of the MCS Act, 1961, a member may resign his membership after giving three months notice, in the prescribed form to the Secretary of the Society.
 
 </pre></p>
@@ -866,36 +796,25 @@
                      <h3>Q.74. On what ground can the resignation of a member be rejected? </h3>
                      <div>
                         <pre> <p align="justify">
-
   Ans.: The resignation of a member of the Society will be accepted only after the member has made payment of the charges due and payable by him to the society in full.
-
 </pre></p>
                      </div>
                      <h3>Q.75. How will the resigning member know if any payment is due from him towards the Society? </h3>
                      <div>
                         <pre> <p align="justify">
-
   Ans.: The Secretary of the society shall, where any charges are found payable by the member of the Society, intimate the same to the member giving him full details and reasons of dues thereof, within 15 days of the receipt of the notice of resignation, and advise him to make the full payment thereof within 30 days from the date of the intimation so given.
-
 </pre></p>
                      </div>
                      <h3>Q.76. When is the resignation accepted without any encumbrance? </h3>
                      <div>
                         <pre> <p align="justify">
-
   Ans.: In the event that there are no charges of the society outstanding with or to be paid by the member, the Committee accepts the resignation of the member and the Secretary of the Society communicates the same to the member within a period of 3 months from the date of the receipt of the notice of the resignation. In case nothing is communicated by the Committee to the resigning member during the said period, then it will be deemed that the resignation is duly accepted.
-
-
-
-
 </pre></p>
                      </div>
                      <h3>Q.77. What are the formalities to be complied with in case of rejection of resignation of a member? </h3>
                      <div>
                         <pre> <p align="justify">
-
   Ans.: When any resignation is rejected, the Committee has to record the reasons therefore and also communicate the same to the member concerned within 3 months of the date of receipt of notice of resignation.
-
 </pre></p>
                      </div>
                      <h3>Q.78. What happens to the shares and interest of the resigning member? </h3>
@@ -919,47 +838,35 @@
                      <h3>Q.80. What do you mean by Premium? </h3>
                      <div>
                         <pre> <p align="justify">
-
   Ans.: The term Premium is defined under the Bye-law No. 3(xxvii) of the Model Bye-laws of the Society. ‘Premium’ means and includes the amount payable to the society by the member who is transferring his shares and interest in the capital/property of the Society, in addition to the transfer fees to be paid by him as provided under the Bye-law No. 38(e)(ix).
-
 </pre></p>
                      </div>
                      <h3>Q.81. What is the time prescribed for giving notice of intention of transfer by a member of the Society? </h3>
                      <div>
                         <pre> <p align="justify">
-
   Ans.: A member who desires to transfer his shares and interest in the capital/property of the Society has to give 15 days’ notice of his intention to do so to the Secretary of the Society in the prescribed form, along with the consent of the proposed transferee in the prescribed form.
-
 </pre></p>
                      </div>
                      <h3>Q.82. What does the Secretary have to do once he receives the notice of intention from the member? </h3>
                      <div>
                         <pre> <p align="justify">
-
   Ans.: The Secretary of the Society, on receipt of the notice of intention to transfer, has to place the same before the meeting of the Committee, held next after the receipt of the notice, and has to point out whether the member is prima-facie eligible to transfer his shares and interest in the capital/property of the Society in view of the provisions of Section 39(2)(a) of the MCS Act, 1960.
-
-</pre></p>
-                     </div>
+</pre></p>                     </div>
                      <h3>Q.83. What happens if the member who proposes to transfer his share and interest in the capital/property of the Society is not eligible to do the same? </h3>
                      <div>
                         <pre> <p align="justify">
-
   Ans.: In the event that the member who proposes to transfer his shares and interest in the capital/property of the Society is ineligible to carry out the said transfer, the Committee has to direct the Secretary of the Society to inform the member accordingly within 8 days of such decision by the Committee.
-
 </pre></p>
                      </div>
                      <h3>Q.84. How can a member obtain a “No Objection Certificate” from the Society? </h3>
                      <div>
                         <pre> <p align="justify">
-
   Ans.: Normally, a “No Objection Certificate” of the Society is not required or mandatory for the transfer of shares and interest of the transferor to the transferee. However where such a certificate is required by the transferor or transferee, he can apply to the Society and the Committee of the Society will then consider such an application on merit within one month from the making of such application.
-
 </pre></p>
                      </div>
                      <h3>Q.85. What documents have to be submitted by the Transferor/Transferee for effective compliance of transfer of shares and interest in the capital/property of the Society? </h3>
                      <div>
                         <pre> <p align="justify">
-
   Ans.: The Transferor/Transferee has to submit following documents and make the compliance as under:
 
   (i) application for transfer of his shares and interest in the capital/property of the Society, in the prescribed form along with the original share certificate;

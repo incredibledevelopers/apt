@@ -13,7 +13,7 @@
             <div class="box">
               <h3 style="color: #07d5c0;">90 Days Free trial</h3>
               <img src="assets/img/pricing-free.png" class="img-fluid" alt="">
-                <p> Register your society/Apartment and avail 90 days free trail for hands on experience.  </p>
+                <p> Register your society/Apartment and avail 90 days free trial for hands on experience.  </p>
               <a href="https://aptsocy.com/register/client_signup" class="btn-buy">Start 90 Days Trial</a>
             </div>
           </div>

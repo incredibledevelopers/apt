@@ -13,7 +13,7 @@
             <div class="box" data-aos="fade-up" data-aos-delay="200">
               <img src="assets/img/onboarding.png" class="img-fluid" alt="">
               <h3>ONBOARDING</h3>
-              <p>Easy and hassle-free Onboarding, Digital Platform for Hosing Societies/Apartments Management, Society
+              <p>Easy and hassle-free Onboarding, Digital Platform for Housing Societies/Apartments Management, Society
                 Information, Detailed member information</p>
             </div>
           </div>
