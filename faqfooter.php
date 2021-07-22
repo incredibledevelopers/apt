@@ -12,10 +12,11 @@
             </a>
             <p align="justify">APT SOCY SOLUTIONS is a LLP incorporated under Companies Act, 2013. This web portal is developed under the dynamic leadership of our Designated Director, Dr. Kishore Toshniwal, for providing management solutions to Cooperative Housing Societies and Apartments.</p>
             <div class="social-links mt-3">
-              <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-              <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-              <a href="#" class="instagram"><i class="bi bi-instagram bx bxl-instagram"></i></a>
-              <a href="#" class="linkedin"><i class="bi bi-linkedin bx bxl-linkedin"></i></a>
+               <a href="https://twitter.com/AptSocy" class="twitter" target="_blank"><i class="bi bi-twitter"></i></a>
+              <a href="https://www.facebook.com/aptsocy" class="facebook" target="_blank"><i class="bi bi-facebook"></i></a>
+              <a href="https://www.instagram.com/aptsocy/" class="instagram" target="_blank"><i class="bi bi-instagram bx bxl-instagram"></i></a>
+              <a href="https://www.linkedin.com/company/apt-socy-solutions" class="linkedin" target="_blank"><i class="bi bi-linkedin bx bxl-linkedin"></i>
+</a>
             </div>
           </div>
 
